@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Surajgupta001
-- 👀 I’m interested in learning new new programming Language.
+- 👀 I’m interested in learning new programming Language.
 - 🌱 I’m currently learning DSA, Web Development and Ethical Hacking.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
