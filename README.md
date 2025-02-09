@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suraj Gupta</h1>
+<h1 align="center">Hey 👋, I'm Suraj Gupta</h1>
 <h3 align="center">Hey I’m interested in learning new-new programming language. I’m learning Data Structure Algorithms, Web Development and Ethical Hacking.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajgupta001&label=Profile%20views&color=0e75b6&style=flat" alt="surajgupta001" /> </p>
