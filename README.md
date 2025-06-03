@@ -30,7 +30,7 @@ Contributing to open-source projects on GitHub to gain real-world collaboration 
 
 ## 👀 I'm interested in
 
-<div align="center"><p>🎯 Interests
+<div align="center"><p>
 🖥️ Web Development – Building clean, responsive, and scalable web applications
 
 🔐 Ethical Hacking – Exploring system vulnerabilities and improving digital security
@@ -77,13 +77,6 @@ Contributing to open-source projects on GitHub to gain real-world collaboration 
 <!-- ⚠️ Important: Replace 'Surajgupta001' with your actual GitHub username in the URL below -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surajgupta001&theme=radical&hide_border=false" />
-</div>
-
-## 🐦 Latest Tweet
-
-<!-- ⚠️ Important: Replace 'YOUR_TWITTER_USERNAME' with your actual Twitter username in the URL below -->
-<div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=YOUR_TWITTER_USERNAME" /></a>
 </div>
 
 ## 💻 Tech Stack
