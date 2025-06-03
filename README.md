@@ -114,8 +114,6 @@ Contributing to open-source projects on GitHub to gain real-world collaboration 
 <div align="center">
 
 **Email:** surajgupta7070031833@gmail.com
-**Phone:** +917070031833
-
 </div>
 
 <div align="center">
