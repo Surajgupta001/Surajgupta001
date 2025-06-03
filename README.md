@@ -17,7 +17,7 @@
 
 ## 🌱 I'm currently learning
 
-<div align="center"><p>📚 Learning Objectives
+<div align="center">
 Building full-stack web apps with React & Node.js (e.g., an e-commerce site or blog platform)
 
 Practicing ethical hacking by simulating vulnerabilities in test environments
